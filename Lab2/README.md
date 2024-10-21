@@ -18,9 +18,9 @@ Consider a scenario where you want to predict the **price of a house** based on 
 
 The model would assume a **linear relationship** between house price and area. The equation for predicting the price might look like this:
 
-\[
-\text{Price} = \beta_0 + \beta_1 \times \text{Area}
-\]
+
+Price = \beta_0 + \beta_1 times Area
+
 
 Where:
 - **Price** is the dependent variable (what we're predicting).
@@ -49,9 +49,8 @@ Imagine you're an HR analyst trying to predict an employee's **salary** based on
 
 The salary in this case depends on **multiple factors**, so a multivariable linear regression model would be more suitable. The equation could be:
 
-\[
-\text{Salary} = \beta_0 + \beta_1 \times \text{Experience} + \beta_2 \times \text{Education Level} + \beta_3 \times \text{Location}
-\]
+Salary = \beta_0 + \beta_1[Experience] + \beta_2[Education Level] + \beta_3[Location]
+
 
 Where:
 - **Salary** is the dependent variable.
